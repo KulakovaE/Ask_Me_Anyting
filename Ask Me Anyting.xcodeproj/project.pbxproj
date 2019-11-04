@@ -13,6 +13,7 @@
 		1838DA642370BDF70086EC10 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1838DA622370BDF70086EC10 /* Main.storyboard */; };
 		1838DA662370BDF80086EC10 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1838DA652370BDF80086EC10 /* Assets.xcassets */; };
 		1838DA692370BDF80086EC10 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1838DA672370BDF80086EC10 /* LaunchScreen.storyboard */; };
+		1838DA972370BE230086EC10 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = 1838DA702370BE220086EC10 /* Contents.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1838DA652370BDF80086EC10 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1838DA682370BDF80086EC10 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1838DA6A2370BDF80086EC10 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1838DA702370BE220086EC10 /* Contents.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Contents.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				1838DA602370BDF70086EC10 /* ViewController.swift */,
 				1838DA622370BDF70086EC10 /* Main.storyboard */,
 				1838DA652370BDF80086EC10 /* Assets.xcassets */,
+				1838DA702370BE220086EC10 /* Contents.json */,
 				1838DA672370BDF80086EC10 /* LaunchScreen.storyboard */,
 				1838DA6A2370BDF80086EC10 /* Info.plist */,
 			);
@@ -128,6 +131,7 @@
 				1838DA692370BDF80086EC10 /* LaunchScreen.storyboard in Resources */,
 				1838DA662370BDF80086EC10 /* Assets.xcassets in Resources */,
 				1838DA642370BDF70086EC10 /* Main.storyboard in Resources */,
+				1838DA972370BE230086EC10 /* Contents.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
