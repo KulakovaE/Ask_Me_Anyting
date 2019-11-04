@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1838DA592370BDF70086EC10 /* Ask Me Anyting.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Ask Me Anyting.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1838DA592370BDF70086EC10 /* Ask_Me_Anyting.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Ask_Me_Anyting.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1838DA5C2370BDF70086EC10 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1838DA5E2370BDF70086EC10 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		1838DA602370BDF70086EC10 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		1838DA5A2370BDF70086EC10 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1838DA592370BDF70086EC10 /* Ask Me Anyting.app */,
+				1838DA592370BDF70086EC10 /* Ask_Me_Anyting.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -73,9 +73,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1838DA582370BDF70086EC10 /* Ask Me Anyting */ = {
+		1838DA582370BDF70086EC10 /* Ask_Me_Anyting */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1838DA6D2370BDF80086EC10 /* Build configuration list for PBXNativeTarget "Ask Me Anyting" */;
+			buildConfigurationList = 1838DA6D2370BDF80086EC10 /* Build configuration list for PBXNativeTarget "Ask_Me_Anyting" */;
 			buildPhases = (
 				1838DA552370BDF70086EC10 /* Sources */,
 				1838DA562370BDF70086EC10 /* Frameworks */,
@@ -85,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = "Ask Me Anyting";
+			name = Ask_Me_Anyting;
 			productName = "Ask Me Anyting";
-			productReference = 1838DA592370BDF70086EC10 /* Ask Me Anyting.app */;
+			productReference = 1838DA592370BDF70086EC10 /* Ask_Me_Anyting.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -105,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 1838DA542370BDF70086EC10 /* Build configuration list for PBXProject "Ask Me Anyting" */;
+			buildConfigurationList = 1838DA542370BDF70086EC10 /* Build configuration list for PBXProject "Ask_Me_Anyting" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -118,7 +118,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1838DA582370BDF70086EC10 /* Ask Me Anyting */,
+				1838DA582370BDF70086EC10 /* Ask_Me_Anyting */,
 			);
 		};
 /* End PBXProject section */
@@ -296,7 +296,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.elena.Ask-Me-Anyting";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Ask_Me_Anyting;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -314,7 +314,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.elena.Ask-Me-Anyting";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Ask_Me_Anyting;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -323,7 +323,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1838DA542370BDF70086EC10 /* Build configuration list for PBXProject "Ask Me Anyting" */ = {
+		1838DA542370BDF70086EC10 /* Build configuration list for PBXProject "Ask_Me_Anyting" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1838DA6B2370BDF80086EC10 /* Debug */,
@@ -332,7 +332,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1838DA6D2370BDF80086EC10 /* Build configuration list for PBXNativeTarget "Ask Me Anyting" */ = {
+		1838DA6D2370BDF80086EC10 /* Build configuration list for PBXNativeTarget "Ask_Me_Anyting" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1838DA6E2370BDF80086EC10 /* Debug */,
